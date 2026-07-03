@@ -142,19 +142,6 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 ---
 
-# 📌 Featured Repositories
-
-⭐ Instead of README cards, pin these repositories on your GitHub profile:
-
-- 🌾 HealthGuard AI
-- 🤖 AI FAQ Chatbot
-- 🏡 Smart Village Complaint Management System
-- 📚 Digital Learning Platform
-- 💻 sindhu.github.io
-- 🚀 Your Best Java Project
-
----
-
 # 🌐 Connect with Me
 
 <p align="left">
