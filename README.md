@@ -125,17 +125,10 @@ Worked on a **Digital Learning Platform for Rural School Students**
 # ⚙️ Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,spring,mysql,firebase,git,github,vscode,eclipse,postman" />
+<img src="https://skillicons.dev/icons?i=react,mysql,git,github,vscode,eclipse,postman" />
 </p>
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=radical" />
-</p>
 
 # 🔥 GitHub Streak
 
@@ -173,7 +166,7 @@ Worked on a **Digital Learning Platform for Rural School Students**
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/u/Sindhu_0614/" target="_blank">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="40"/>
 </a>
 </p>
