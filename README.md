@@ -132,8 +132,6 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 # 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
-
 <p align="center">
   <img height="170" src="https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=radical" />
