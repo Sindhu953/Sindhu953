@@ -13,8 +13,6 @@
 
 ---
 
----
-
 # 👩‍💻 About Me
 
 > Passionate about building AI-powered applications, solving real-world problems, and continuously learning modern technologies.
@@ -131,19 +129,13 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sindhu953&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical)
 
 ---
 
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sindhu953&theme=github-dark)
-
----
-
-# 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=github_dark)
 
 ---
 
