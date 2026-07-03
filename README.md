@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sindhu953&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Sindhu953&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">💻 B.Tech IT Student | Software Developer | AI & ML Enthusiast</h3>
+<h2 align="center">💻 Software Developer | AI & Machine Learning Enthusiast</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;Java+Developer;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -22,11 +22,12 @@ Passionate about building AI-powered applications, solving real-world problems, 
 
 # 👩‍💻 About Me
 
-- 🎓 B.Tech in Information Technology at VVIT, Guntur
+- 🎓 B.Tech in Information Technology at **VVIT, Guntur**
 - 💡 Passionate about Software Development, Artificial Intelligence and Full Stack Development
-- 🌱 Currently learning AI Agents, Machine Learning, Spring Boot and Data Structures & Algorithms
-- 🚀 Looking for Software Developer / AI Engineer Internship & Full-Time Opportunities
-- ⚡ Love building impactful projects that solve real-world problems
+- 🌱 Currently learning **AI Agents, Machine Learning, Spring Boot and Data Structures & Algorithms**
+- 🚀 Looking for **Software Developer / AI Engineer Internship & Full-Time Opportunities**
+- 💻 Strong interest in Java Development and AI Applications
+- ⚡ Love solving real-world problems through technology
 
 ---
 
@@ -53,14 +54,16 @@ Worked on a **Digital Learning Platform for Rural School Students**
 ## 🌾 Crop Care AI
 
 - AI-powered crop disease detection
-- Image upload with confidence score
+- Image-based disease prediction
+- Confidence score generation
 - HTML • CSS • JavaScript
 
 ---
 
 ## 🤖 AI-Powered FAQ Chatbot
 
-- Offline AI chatbot
+- AI-powered chatbot
+- Natural Language Processing
 - HTML • CSS • JavaScript
 - Instant FAQ responses
 
@@ -71,7 +74,7 @@ Worked on a **Digital Learning Platform for Rural School Students**
 - Complaint Tracking Portal
 - React.js
 - Firebase
-- Real-time complaint management
+- Real-time Complaint Management
 
 ---
 
@@ -94,6 +97,8 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 🏅 Smart India Hackathon Participant
 
+🏅 Oracle Certified Foundations Associate
+
 ---
 
 # 📜 Certifications
@@ -103,33 +108,35 @@ Worked on a **Digital Learning Platform for Rural School Students**
 - The Joy of Computing using Python — NPTEL
 - Object Oriented Programming in Java — Codetantra
 - Explore Machine Learning using Python — Infosys Springboard
-- Introduction to Python — Infosys Springboard
 - Programming in Java — Infosys Springboard
+- Introduction to Python — Infosys Springboard
 - Web Development Internship — Elevate Labs (Skill India & MSME)
 
 ---
 
-# 💻 Languages & Tools
+# 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mysql,firebase,git,github,vscode,eclipse,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
 ---
 
-# 📌 Featured Repositories
+# ⚙️ Frameworks & Tools
 
-[![Readme Card](https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/pin/?username=Sindhu953&repo=REPO_NAME_1&theme=radical)](https://github.com/Sindhu953/healthguardAI)
-
-[![Readme Card](https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/pin/?username=Sindhu953&repo=REPO_NAME_2&theme=radical)](https://github.com/Sindhu953/finalProject)
-
-[![Readme Card](https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/pin/?username=Sindhu953&repo=REPO_NAME_3&theme=radical)](https://github.com/Sindhu953/sindhu.github.io )
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,mysql,firebase,git,github,vscode,eclipse,postman" />
+</p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical)
+> Replace **YOUR_VERCEL_URL** with your deployed Vercel domain.
+
+<img height="170" src="https://YOUR_VERCEL_URL.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical" />
+
+<img height="170" src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=radical" />
 
 ---
 
@@ -139,36 +146,51 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 ---
 
-# 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=radical)
-
----
-
 # 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sindhu953&theme=github-dark)
 
 ---
 
+# 📌 Featured Repositories
+
+⭐ Instead of README cards, pin these repositories on your GitHub profile:
+
+- 🌾 HealthGuard AI
+- 🤖 AI FAQ Chatbot
+- 🏡 Smart Village Complaint Management System
+- 📚 Digital Learning Platform
+- 💻 sindhu.github.io
+- 🚀 Your Best Java Project
+
+---
+
 # 🌐 Connect with Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/dasari-sindhura-maha-lakshmi/">
+<a href="https://www.linkedin.com/in/dasari-sindhura-maha-lakshmi/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+<a href="mailto:23bq1a1227@vvit.net">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="40"/>
+</a>
 </p>
 
-📧 **Email:** 23bq1a1227@vvit.net
+---
+
+# 💡 Quote
+
+> *"Code. Learn. Build. Repeat."* 🚀
 
 ---
 
-## 💡 Fun Fact
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
-> *"I enjoy turning innovative ideas into impactful software solutions."*
-
----
-
-⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
+<p align="center">
+Let's connect and build something amazing together!
+</p>
