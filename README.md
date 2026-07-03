@@ -129,8 +129,13 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api?username=Sindhu953&show_icons=true&theme=github_dark)
 
+---
+
+# 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=github_dark)
 ---
 
 # 🔥 GitHub Streak
