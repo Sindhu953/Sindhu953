@@ -1,12 +1,11 @@
-<p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="GitHub Banner">
-</p>
-
 # Hi 👋, I'm Dasari Sindhura Maha Lakshmi
 
 ![](https://komarev.com/ghpvc/?username=Sindhu953&color=blue)
 
 ### 💻 B.Tech IT Student | Software Developer | AI & ML Enthusiast
+<p align="center">
+  <img src="sindhuGit.jpeg" alt="GitHub Banner" width="100%">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;Problem+solving;Always+Learning+New+Things)](https://git.io/typing-svg)
 
