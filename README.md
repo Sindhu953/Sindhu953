@@ -117,7 +117,7 @@ Worked on a **Digital Learning Platform for Rural School Students**
 # 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,html,css" />
 </p>
 
 ---
@@ -132,13 +132,12 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 # 📊 GitHub Statistics
 
-> Replace **YOUR_VERCEL_URL** with your deployed Vercel domain.
+# 📊 GitHub Statistics
 
-<img height="170" src="https://YOUR_VERCEL_URL.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical" />
-
-<img height="170" src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=radical" />
-
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api?username=Sindhu953&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-cxiq4xu8l-sindhu06.vercel.app/api/top-langs/?username=Sindhu953&layout=compact&theme=radical" />
+</p>
 
 # 🔥 GitHub Streak
 
