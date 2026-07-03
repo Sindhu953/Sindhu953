@@ -8,7 +8,7 @@
 
 ### 💻 B.Tech IT Student | Software Developer | AI & ML Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;AI+Enthusiast;Full+Stack+Learner;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;Problem+solving;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 > Passionate about building AI-powered applications, solving real-world problems, and continuously learning modern technologies.
 
